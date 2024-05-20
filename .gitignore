@@ -1,5 +1,5 @@
 # Ignore cache
 __pycache__/
 
-# Ignore log files
+# Ignore pth files
 *.pth
